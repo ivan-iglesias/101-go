@@ -1,7 +1,8 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("Hola Mundo, soy Iván")
+	numbers()
+	text()
+	arrays()
+	slices()
 }
